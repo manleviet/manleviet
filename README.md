@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 - [ResearcheGate](https://www.researchgate.net/profile/Viet_Man_Le) 🤓💻
 - [Google Scholar](https://scholar.google.com/citations?user=l2UTi1MAAAAJ&hl=en&authuser=1)
 
-![manleviet's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manleviet&count_private=true)
-![manleviet's Github Stats](https://github-readme-stats.vercel.app/api?username=manleviet&show_icons=true&line_height=27&count_private=true)
+![manleviet's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manleviet&count_private=true&layout=compact)
+![manleviet's Github Stats](https://github-readme-stats.vercel.app/api?username=manleviet&show_icons=true&line_height=27&count_private=true&hide=contribs)

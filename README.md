@@ -6,7 +6,7 @@
 ## Hi there 👋 I'm Viet-Man Le (Lê Viết Mẫn in Vietnamese) 👨‍💻
 
 A University Assistant and PhD student at Institute of Software Technology, Graz University of Technology, Austria.
-- 🔭 I’m currently working on AI Technologies for Feature Model Development and Evolution
+- 🔭 I’m currently working on Intelligent Techniques for Efficient Diagnostic Reasoning in Feature Model Development and Evolution
 - 🌱 I’m currently learning Deep Learning
 
 <a href="https://facebook.com/manleviet">

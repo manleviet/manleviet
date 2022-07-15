@@ -7,7 +7,6 @@
 
 A University Assistant and PhD student at Institute of Software Technology, Graz University of Technology, Austria.
 - 🔭 I’m currently working on Intelligent Techniques for Efficient Diagnostic Reasoning in Feature Model Development and Evolution
-- 🌱 I’m currently learning Deep Learning
 
 <a href="https://facebook.com/manleviet">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />

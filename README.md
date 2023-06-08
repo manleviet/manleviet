@@ -25,4 +25,4 @@ A University Assistant and PhD student at Institute of Software Technology, Graz
 </a>
 
 
-![manleviet's Github Stats](https://github-readme-stats.vercel.app/api?username=manleviet&show_icons=true&line_height=27&count_private=true&hide=contribs)
+<!-- ![manleviet's Github Stats](https://github-readme-stats.vercel.app/api?username=manleviet&show_icons=true&line_height=27&count_private=true&hide=contribs) -->

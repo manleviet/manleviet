@@ -5,14 +5,14 @@
 
 ## Hi there 👋 I'm Viet-Man Le (Lê Viết Mẫn in Vietnamese) 👨‍💻
 
-A University Assistant and PhD student at Institute of Software Technology, Graz University of Technology, Austria.
+A Project Assistant and PhD student at Institute of Software Technology, Graz University of Technology, Austria.
 - 🔭 I’m currently working on Intelligent Techniques for Efficient Diagnostic Reasoning in Feature Model Development and Evolution
 
-<a href="https://hiconfit.manleviet.info">
+<a href="https://hiconfit.github.com">
     <img src="https://img.shields.io/badge/HiConfiT-1877F2?style=for-the-badge&logo=Safari&logoColor=white" />
 </a>
 
-<a href="https://beta.manleviet.info">
+<a href="https://manleviet.github.com">
     <img src="https://img.shields.io/badge/Personal_website-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white" />
 </a>
 

@@ -12,7 +12,7 @@ A Project Assistant and PhD student at Institute of Software Technology, Graz Un
     <img src="https://img.shields.io/badge/HiConfiT-1877F2?style=for-the-badge&logo=Safari&logoColor=white" />
 </a>
 
-<a href="https://manleviet.github.com">
+<a href="https://manleviet.github.io">
     <img src="https://img.shields.io/badge/Personal_website-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white" />
 </a>
 
